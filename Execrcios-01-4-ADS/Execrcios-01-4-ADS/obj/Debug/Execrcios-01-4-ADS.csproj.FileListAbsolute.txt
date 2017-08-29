@@ -1,0 +1,13 @@
+E:\Execrcios-01-4-ADS\Execrcios-01-4-ADS\bin\Debug\Execrcios-01-4-ADS.exe.config
+E:\Execrcios-01-4-ADS\Execrcios-01-4-ADS\bin\Debug\Execrcios-01-4-ADS.exe
+E:\Execrcios-01-4-ADS\Execrcios-01-4-ADS\bin\Debug\Execrcios-01-4-ADS.pdb
+E:\Execrcios-01-4-ADS\Execrcios-01-4-ADS\obj\Debug\Execrcios-01-4-ADS.csprojResolveAssemblyReference.cache
+E:\Execrcios-01-4-ADS\Execrcios-01-4-ADS\obj\Debug\Execrcios-01-4-ADS.csproj.CoreCompileInputs.cache
+E:\Execrcios-01-4-ADS\Execrcios-01-4-ADS\obj\Debug\Execrcios-01-4-ADS.exe
+E:\Execrcios-01-4-ADS\Execrcios-01-4-ADS\obj\Debug\Execrcios-01-4-ADS.pdb
+E:\Aplicações distribuidas\Execrcios-01-4-ADS\Execrcios-01-4-ADS\bin\Debug\Execrcios-01-4-ADS.exe.config
+E:\Aplicações distribuidas\Execrcios-01-4-ADS\Execrcios-01-4-ADS\bin\Debug\Execrcios-01-4-ADS.exe
+E:\Aplicações distribuidas\Execrcios-01-4-ADS\Execrcios-01-4-ADS\bin\Debug\Execrcios-01-4-ADS.pdb
+E:\Aplicações distribuidas\Execrcios-01-4-ADS\Execrcios-01-4-ADS\obj\Debug\Execrcios-01-4-ADS.csproj.CoreCompileInputs.cache
+E:\Aplicações distribuidas\Execrcios-01-4-ADS\Execrcios-01-4-ADS\obj\Debug\Execrcios-01-4-ADS.exe
+E:\Aplicações distribuidas\Execrcios-01-4-ADS\Execrcios-01-4-ADS\obj\Debug\Execrcios-01-4-ADS.pdb
